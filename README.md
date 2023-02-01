@@ -3,26 +3,14 @@
 ## This is the landing page
 <img src="./image/handman.jpg"/>
 
-#
 
-##
-##
-##
-##
-##
-##
+
+
 
 ## This is when you Win 😄
 <img src="./image/hangmanwinner.jpg"/>
 
-#
 
-##
-##
-##
-##
-##
-##
 
 ## This is when you Lose 👎
 <img src="./image/hangmanlose.jpg"/>
